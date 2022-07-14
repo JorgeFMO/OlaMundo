@@ -1,3 +1,3 @@
-# OláMundo
+# Olá, Mundo!
  Primeiro repositorio.
- Foi criado para inicia no GitHub!
+ Foi criado para iniciar no GitHub!
